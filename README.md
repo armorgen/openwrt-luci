@@ -1,1 +1,1 @@
-# openwrt-luci
+# luci for openwrt
